@@ -48,7 +48,7 @@ Together: **TELOS** (who you are) → **Substrate** (worldview) → **PAI** (inf
 
 ## Connect
 
-[Newsletter](https://danielmiessler.com/subscribe) ・ [YouTube](https://youtube.com/@unsupervised-learning) ・ [X](https://x.com/danielmiessler) ・ [LinkedIn](https://linkedin.com/in/danielmiessler)
+[Blog](https://danielmiessler.com) ・ [Newsletter](https://danielmiessler.com/subscribe) ・ [YouTube](https://youtube.com/@unsupervised-learning) ・ [X](https://x.com/danielmiessler) ・ [LinkedIn](https://linkedin.com/in/danielmiessler) ・ [All Repos](https://github.com/danielmiessler?tab=repositories)
 
 <a href="https://github.com/sponsors/danielmiessler">
   <img src="https://img.shields.io/badge/Sponsor_My_Open_Source_Work-❤️-ea4aaa?style=for-the-badge" alt="Sponsor" />
