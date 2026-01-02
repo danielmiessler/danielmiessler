@@ -1,44 +1,50 @@
 ### Hi, I'm Daniel Miessler
 
-I build open-source tools that help humans get more from AI.
-
-Currently working on [Fabric](https://github.com/danielmiessler/fabric), [Telos](https://github.com/danielmiessler/Telos), and [PAI](https://github.com/danielmiessler/PAI).
-
-I also write about AI and security at [danielmiessler.com](https://danielmiessler.com) and run the [Unsupervised Learning](https://danielmiessler.com/subscribe) newsletter.
+I build open-source infrastructure for augmenting humans with AI.
 
 ---
 
-#### Featured Projects
+## PAI: Personal AI Infrastructure
 
-- **[Fabric](https://github.com/danielmiessler/fabric)** - An open-source framework for augmenting humans using AI. Modular prompts that can be combined in pipelines. ![GitHub stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square)
+<a href="https://github.com/danielmiessler/PAI">
+  <img src="https://raw.githubusercontent.com/danielmiessler/PAI/main/pai-inner-loop-7-phases.png" alt="PAI Algorithm" width="600">
+</a>
 
-- **[SecLists](https://github.com/danielmiessler/SecLists)** - The security tester's companion. A collection of multiple types of lists used during security assessments. ![GitHub stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square)
+**The framework I use to run my own AI assistant.** PAI implements a central algorithm that handles everything from simple tasks to complex multi-session projects:
 
-- **[Telos](https://github.com/danielmiessler/Telos)** - A framework for creating deep context about yourself, your goals, and your projects for use with AI.
+```
+OBSERVE → THINK → PLAN → BUILD → EXECUTE → VERIFY → LEARN
+```
 
-- **[PAI](https://github.com/danielmiessler/PAI)** - Personal AI Infrastructure. The framework I use to build and run my own AI assistant.
+Auto-compresses context across **1,052+ messages** while maintaining full work history. Every task follows the same scientific method—verifiability is everything.
+
+[![PAI](https://img.shields.io/github/stars/danielmiessler/PAI?style=for-the-badge&label=PAI&logo=github)](https://github.com/danielmiessler/PAI)
 
 ---
 
-#### Recent Writing
+## Projects
+
+| Project | Description | |
+|---------|-------------|---|
+| **[Fabric](https://github.com/danielmiessler/fabric)** | Open-source framework for augmenting humans using AI. 250+ modular prompts that combine into pipelines. | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square) |
+| **[TELOS](https://github.com/danielmiessler/Telos)** | Framework for creating deep context about yourself, your goals, and projects—for use with AI. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square) |
+| **[Substrate](https://github.com/danielmiessler/Substrate)** | Open-source framework for human understanding, meaning, and progress. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square) |
+| **[SecLists](https://github.com/danielmiessler/SecLists)** | The security tester's companion. Multiple types of lists for security assessments. | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square) |
+
+---
+
+## Recent Writing
 
 <!-- BLOG-POST-LIST:START -->- [AI Changes I Expect in 2026](https://danielmiessler.com/blog/ai-changes-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)- [Cybersecurity Changes I Expect in 2026](https://danielmiessler.com/blog/cybersecurity-changes-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)- [AI-enabled Self-software](https://danielmiessler.com/blog/ai-enabled-self-software?utm_source=rss&utm_medium=feed&utm_campaign=website)- [China is Becoming Private Equity for the World](https://danielmiessler.com/blog/china-private-equity-world?utm_source=rss&utm_medium=feed&utm_campaign=website)- [A Personal AI Maturity Model &lpar;PAIMM&rpar;](https://danielmiessler.com/blog/personal-ai-maturity-model?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
-*Updated automatically via GitHub Actions*
+*Auto-updated daily via [GitHub Actions](https://github.com/danielmiessler/danielmiessler/actions)*
 
 ---
 
-#### Connect
+## Connect
 
-- [Newsletter](https://danielmiessler.com/subscribe) - Weekly AI, security, and human upgrade content
-- [YouTube](https://youtube.com/@unsupervised-learning) - Video essays and tutorials
-- [X/Twitter](https://x.com/danielmiessler) - Daily thoughts
-- [LinkedIn](https://linkedin.com/in/danielmiessler) - Professional updates
-
----
+[Newsletter](https://danielmiessler.com/subscribe) ・ [YouTube](https://youtube.com/@unsupervised-learning) ・ [X](https://x.com/danielmiessler) ・ [LinkedIn](https://linkedin.com/in/danielmiessler)
 
 <a href="https://github.com/sponsors/danielmiessler">
-  <img src="https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge" alt="Sponsor Daniel Miessler" />
+  <img src="https://img.shields.io/badge/Sponsor_My_Open_Source_Work-❤️-ea4aaa?style=for-the-badge" alt="Sponsor" />
 </a>
-
-If my open-source work has helped you, consider [sponsoring my work](https://github.com/sponsors/danielmiessler).
