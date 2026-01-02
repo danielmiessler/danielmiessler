@@ -22,11 +22,7 @@ I also write about AI and security at [danielmiessler.com](https://danielmiessle
 
 #### Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [The Rise of AI-Native Security](https://danielmiessler.com)
-- [Why I Built Fabric](https://danielmiessler.com)
-- [Human 3.0: Upgrading Yourself](https://danielmiessler.com)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [AI Changes I Expect in 2026](https://danielmiessler.com/blog/ai-changes-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)- [Cybersecurity Changes I Expect in 2026](https://danielmiessler.com/blog/cybersecurity-changes-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)- [AI-enabled Self-software](https://danielmiessler.com/blog/ai-enabled-self-software?utm_source=rss&utm_medium=feed&utm_campaign=website)- [China is Becoming Private Equity for the World](https://danielmiessler.com/blog/china-private-equity-world?utm_source=rss&utm_medium=feed&utm_campaign=website)- [A Personal AI Maturity Model &lpar;PAIMM&rpar;](https://danielmiessler.com/blog/personal-ai-maturity-model?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 *Updated automatically via GitHub Actions*
 
