@@ -1,35 +1,34 @@
 ### Hi, I'm Daniel Miessler
 
-I build open-source infrastructure for augmenting humans with AI.
+I build open-source infrastructure for upgrading humans with AI.
 
 ---
 
-## PAI: Personal AI Infrastructure
+## The Vision: Human 3.0
 
-<a href="https://github.com/danielmiessler/PAI">
-  <img src="https://raw.githubusercontent.com/danielmiessler/danielmiessler/main/pai-unified-algorithm-v4.png" alt="THE ALGORITHM" width="100%">
-</a>
+I believe we're at an inflection point where AI can genuinely augment human capability—not replace us, but make us better versions of ourselves. My projects are all pieces of this puzzle:
 
-**The framework I use to run my own AI assistant.** PAI implements a central algorithm that handles everything from simple tasks to complex multi-session projects:
+**[Substrate](https://github.com/danielmiessler/Substrate)** is the philosophical foundation—a framework for understanding what humans are, what we want, and what progress actually means. It's about building a coherent worldview before building technology.
 
-```
-OBSERVE → THINK → PLAN → BUILD → EXECUTE → VERIFY → LEARN
-```
+**[TELOS](https://github.com/danielmiessler/Telos)** turns that philosophy into personal context. It's a framework for articulating who you are, what you value, and what you're trying to achieve—structured data that AI can actually use to help you.
 
-Auto-compresses context across **1,052+ messages** while maintaining full work history. Every task follows the same scientific method—verifiability is everything.
+**[PAI](https://github.com/danielmiessler/PAI)** is Personal AI Infrastructure—the scaffolding for building your own AI assistant that knows your context, follows your preferences, and improves over time. It's what I use daily to run my own AI system.
 
-[![PAI](https://img.shields.io/github/stars/danielmiessler/PAI?style=for-the-badge&label=PAI&logo=github)](https://github.com/danielmiessler/PAI)
+**[Fabric](https://github.com/danielmiessler/fabric)** is the capability layer—250+ modular prompts that can be combined into pipelines. Extract wisdom from content, analyze security, generate ideas, and more.
+
+Together: **Substrate** (why) → **TELOS** (who you are) → **PAI** (how it runs) → **Fabric** (what it can do)
 
 ---
 
 ## Projects
 
-| Project | Description | |
-|---------|-------------|---|
-| **[Fabric](https://github.com/danielmiessler/fabric)** | Open-source framework for augmenting humans using AI. 250+ modular prompts that combine into pipelines. | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square) |
-| **[TELOS](https://github.com/danielmiessler/Telos)** | Framework for creating deep context about yourself, your goals, and projects—for use with AI. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square) |
-| **[Substrate](https://github.com/danielmiessler/Substrate)** | Open-source framework for human understanding, meaning, and progress. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square) |
-| **[SecLists](https://github.com/danielmiessler/SecLists)** | The security tester's companion. Multiple types of lists for security assessments. | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square) |
+| Project | What It Does | |
+|---------|--------------|---|
+| **[Fabric](https://github.com/danielmiessler/fabric)** | Modular AI prompts that combine into pipelines | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square) |
+| **[PAI](https://github.com/danielmiessler/PAI)** | Personal AI Infrastructure—build your own AI assistant | ![Stars](https://img.shields.io/github/stars/danielmiessler/PAI?style=flat-square) |
+| **[TELOS](https://github.com/danielmiessler/Telos)** | Framework for deep personal context | ![Stars](https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square) |
+| **[Substrate](https://github.com/danielmiessler/Substrate)** | Philosophy of human understanding and progress | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square) |
+| **[SecLists](https://github.com/danielmiessler/SecLists)** | Security testing wordlists and resources | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square) |
 
 ---
 
