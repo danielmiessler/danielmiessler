@@ -1,22 +1,26 @@
 ### Hi, I'm Daniel Miessler
 
-I build open-source infrastructure for upgrading humans with AI.
+I'm worried about humanity's future.
+
+AI is automating knowledge work—the thing most people built their identities around. That's going to cause a crisis for millions who defined themselves by their job title and place in a hierarchy.
+
+But I think this is also an opportunity. If we do it right, AI can free people to discover who they actually are—their purposes, their gifts, the things they'd pursue even if nobody paid them.
+
+That's what I'm working on: helping humans upgrade themselves for a post-work world.
 
 ---
 
-## The Vision: [Human 3.0](https://human3.ai)
+## What I'm Building
 
-I believe we're at an inflection point where AI can genuinely augment human capability—not replace us, but make us better versions of ourselves. My projects are all pieces of this puzzle:
+**[Human 3.0](https://human3.ai)** is the philosophy—a framework for human flourishing when AI handles the routine work.
 
-**[TELOS](https://github.com/danielmiessler/Telos)** is a framework for articulating who you are, what you value, and what you're trying to achieve—structured data that AI can actually use to help you.
+**[TELOS](https://github.com/danielmiessler/Telos)** helps you articulate who you are, what you value, and what you're trying to achieve—structured self-knowledge that AI can actually use to help you.
 
-**[Substrate](https://github.com/danielmiessler/Substrate)** is the philosophical foundation—a framework for understanding what humans are, what we want, and what progress actually means.
+**[Substrate](https://github.com/danielmiessler/Substrate)** is the deeper foundation—a framework for understanding what humans are, what we want, and what progress actually means.
 
-**[PAI](https://github.com/danielmiessler/PAI)** is Personal AI Infrastructure—the scaffolding for building your own AI assistant that knows your context, follows your preferences, and improves over time. It's what I use daily to run my own AI system.
+**[PAI](https://github.com/danielmiessler/PAI)** is Personal AI Infrastructure—the scaffolding for building your own AI assistant that knows your context, follows your preferences, and improves over time.
 
 **[Fabric](https://github.com/danielmiessler/fabric)** is a collection of crowdsourced prompts for common AI tasks—extract wisdom, analyze security, summarize content, and more.
-
-Together: **TELOS** (who you are) → **Substrate** (worldview) → **PAI** (infrastructure) → **Fabric** (prompts)
 
 ---
 
