@@ -1,3 +1,6 @@
+
+<img width="2315" height="772" alt="thealgorithm" src="https://github.com/user-attachments/assets/5c689dbd-33e0-49bc-a8b0-91f6335880f2" />
+
 ### Hi, I'm Daniel Miessler
 
 I'm worried about humanity's future.
