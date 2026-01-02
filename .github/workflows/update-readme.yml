@@ -6,11 +6,16 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:  # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Update blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
