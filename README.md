@@ -7,7 +7,7 @@ I build open-source infrastructure for augmenting humans with AI.
 ## PAI: Personal AI Infrastructure
 
 <a href="https://github.com/danielmiessler/PAI">
-  <img src="https://raw.githubusercontent.com/danielmiessler/PAI/main/pai-inner-loop-7-phases.png" alt="PAI Algorithm" width="600">
+  <img src="https://raw.githubusercontent.com/danielmiessler/danielmiessler/main/pai-unified-algorithm.png" alt="THE ALGORITHM" width="100%">
 </a>
 
 **The framework I use to run my own AI assistant.** PAI implements a central algorithm that handles everything from simple tasks to complex multi-session projects:
