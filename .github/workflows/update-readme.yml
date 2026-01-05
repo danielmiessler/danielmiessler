@@ -22,5 +22,6 @@ jobs:
         with:
           feed_list: "https://danielmiessler.com/feed/"
           max_post_count: 5
-          template: "- [$title]($url)"
+          template: "$newline- [$title]($url)"
           comment_tag_name: "BLOG-POST-LIST"
+          disable_html_encoding: true
