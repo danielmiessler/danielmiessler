@@ -39,15 +39,17 @@ That's what I'm working on: helping humans upgrade themselves for a post-work wo
 
 ## Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [AI Changes I Expect in 2026](https://danielmiessler.com/blog/ai-changes-2026)
-- [Cybersecurity Changes I Expect in 2026](https://danielmiessler.com/blog/cybersecurity-changes-2026)
-- [AI-enabled Self-software](https://danielmiessler.com/blog/ai-enabled-self-software)
-- [China is Becoming Private Equity for the World](https://danielmiessler.com/blog/china-private-equity-world)
-- [A Personal AI Maturity Model (PAIMM)](https://danielmiessler.com/blog/personal-ai-maturity-model)
-<!-- BLOG-POST-LIST:END -->
+| | |
+|---|---|
+| [AI Changes I Expect in 2026](https://danielmiessler.com/blog/ai-changes-2026) | [The Bubble Is Labor](https://danielmiessler.com/blog/real-bubble-is-human-labor) |
+| [Cybersecurity Changes I Expect in 2026](https://danielmiessler.com/blog/cybersecurity-changes-2026) | [Thoughts on Doctorow's 'Reverse Centaurs' AI Talk](https://danielmiessler.com/blog/thoughts-on-doctorow-ai-essay) |
+| [AI-enabled Self-software](https://danielmiessler.com/blog/ai-enabled-self-software) | [I Built Two Claude Code Features Before Anthropic](https://danielmiessler.com/blog/i-built-two-claude-code-features-before-anthropic-released-them) |
+| [China is Becoming Private Equity for the World](https://danielmiessler.com/blog/china-private-equity-world) | [Autonomous Car Safety Data](https://danielmiessler.com/blog/autonomous-cars-safety-data) |
+| [A Personal AI Maturity Model (PAIMM)](https://danielmiessler.com/blog/personal-ai-maturity-model) | [How to Fix an Unbearably Slow iCloud Drive](https://danielmiessler.com/blog/fix-slow-icloud) |
+| [We Need a New Type of Cybersecurity Product](https://danielmiessler.com/blog/new-type-cybersecurity-product) | [Is Prompt Injection a Vulnerability?](https://danielmiessler.com/blog/is-prompt-injection-a-vulnerability) |
+| [Anthropic's Vision Advantage Like Apple's](https://danielmiessler.com/blog/anthropics-vision-advantage) | [Thoughts on Prompt Injection OPSEC](https://danielmiessler.com/blog/thoughts-on-prompt-injection-opsec) |
 
-*Auto-updated daily via [GitHub Actions](https://github.com/danielmiessler/danielmiessler/actions)*
+[→ All 3,000+ essays](https://danielmiessler.com/blog/)
 
 ---
 
