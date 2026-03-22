@@ -31,6 +31,7 @@ That's what I'm working on: helping humans upgrade themselves for a post-work wo
 |---------|--------------|---|
 | **[TELOS](https://github.com/danielmiessler/Telos)** | Framework for deep personal context | ![Stars](https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square) |
 | **[PAI](https://github.com/danielmiessler/PAI)** | Personal AI Infrastructure—build your own AI assistant | ![Stars](https://img.shields.io/github/stars/danielmiessler/PAI?style=flat-square) |
+| **[PAI on Pi](https://github.com/danielmiessler/PAI/tree/main/Releases/Pi)** | Model-agnostic PAI for local models and multi-provider use | — |
 | **[Substrate](https://github.com/danielmiessler/Substrate)** | Philosophy of human understanding and progress | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square) |
 | **[Fabric](https://github.com/danielmiessler/fabric)** | Crowdsourced AI prompts for common tasks | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square) |
 | **[SecLists](https://github.com/danielmiessler/SecLists)** | Security testing wordlists and resources | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square) |
