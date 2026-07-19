@@ -109,8 +109,7 @@ Standalone sites I've built, each making one argument or holding one archive.
 - [A Conversation With Sarit Tager](https://www.youtube.com/watch?v=5DSQxyjCm-g)
 - [A Conversaton With Murali Rathinasamy](https://www.youtube.com/watch?v=BEt_gEjJ0ks)
 - [A Conversation with Duncan Greatwood](https://www.youtube.com/watch?v=0LpiTIwm6bk)
-- [Why We Need Some AI Model Controls](https://www.youtube.com/watch?v=a5L-lFd8jSk)
-<!-- YOUTUBE-LIST:END -->
+- [Why We Need Some AI Model Controls](https://www.youtube.com/watch?v=a5L-lFd8jSk)<!-- YOUTUBE-LIST:END -->
 
 [→ Unsupervised Learning on YouTube](https://youtube.com/@unsupervised-learning)
 
