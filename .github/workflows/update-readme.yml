@@ -1,0 +1,29 @@
+name: Update README content
+on:
+  schedule:
+    - cron: "0 8 * * *" # daily 08:00 UTC (midnight PT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://danielmiessler.com/feed.rss"
+          max_post_count: 7
+          template: "$newline- [$title]($url)"
+          commit_message: "Update latest blog posts"
+      - name: Latest videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnCikd0s4i9KoDtaHPlK-JA"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
+          commit_message: "Update latest videos"
