@@ -8,7 +8,7 @@
 
 ---
 
-Everything I build is about one transition: moving people from their current state to their ideal state.
+Everything I build is about one transition: moving people and companies from their current state to their ideal state.
 
 Most people's current state was assigned to them—a job title, a place in a hierarchy, an identity built on being useful to an organization. AI is about to automate much of that away, and for millions it will feel like losing who they are.
 
