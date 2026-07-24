@@ -90,13 +90,13 @@ Standalone sites I've built, each making one argument or holding one archive.
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [The Entire Game for AI Is Articulation of Ideal State](https://danielmiessler.com/blog/ai-ideal-state-articulation?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The OpenAI Hack Was a Mini Paperclip Maximizer](https://danielmiessler.com/blog/openai-hack-paperclip-maximizer?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [AI Is Just Thinking and Doing](https://danielmiessler.com/blog/ai-is-thinking-and-doing?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Kimi K3 Might Have Just Started a Crash of the US Economy](https://danielmiessler.com/blog/kimi-k3-us-economy?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Three Components of Becoming AI Antifragile](https://danielmiessler.com/blog/becoming-ai-antifragile?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Avoid the AI Expertise Trap](https://danielmiessler.com/blog/avoid-the-ai-expertise-trap?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [From Prompt Engineering to Intent Engineering](https://danielmiessler.com/blog/intent-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Minimizing Machine Work Maximizes Human Work](https://danielmiessler.com/blog/minimizing-machine-work-maximizes-human-work?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [From Prompt Engineering to Intent Engineering](https://danielmiessler.com/blog/intent-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 [→ All 3,000+ essays](https://danielmiessler.com/blog)
 
