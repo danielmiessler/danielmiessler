@@ -12,7 +12,9 @@
 
 > Most people's current state was assigned to them—a job title, a place in a hierarchy, an identity built on being useful to an organization. AI is about to automate much of that away, and for millions it will feel like losing who they are.
 >
-> The ideal state is on the other side: knowing who you actually are, what you value, and what you'd pursue even if nobody paid you—with AI handling the routine work so you can do the human work.
+> The deeper problem is that their ideal state was assigned too—or they were never even taught to ask what it was.
+>
+> The real one is on the other side: knowing who you actually are, what you value, and what you'd pursue even if nobody paid you—with AI handling the routine work so you can do the human work.
 >
 > **I call that transition [Human 3.0](https://human3.ai). Everything below exists to help people make it.**
 
