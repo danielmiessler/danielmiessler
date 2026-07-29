@@ -10,13 +10,17 @@
 
 <br>
 
-> Most people's current state was assigned to them—a job title, a place in a hierarchy, an identity built on being useful to an organization. AI is about to automate much of that away, and for millions it will feel like losing who they are.
->
-> The deeper problem is that their ideal state was assigned too—or they were never even taught to ask what it was.
->
-> The real one is on the other side: knowing who you actually are, what you value, and what you'd pursue even if nobody paid you—with AI handling the routine work so you can do the human work.
->
-> **I call that transition [Human 3.0](https://human3.ai). Everything below exists to help people make it.**
+Everything I make is part of one system, and the system has one purpose: **moving people and companies from their current state to their ideal state.**
+
+Most people's current state was assigned to them—a job title, a place in a hierarchy, an identity built on being useful to an organization. The deeper problem is that their ideal state was assigned too—or they were never even taught to ask what it was.
+
+That's the whole game, and it takes three steps:
+
+| | | |
+|---|---|---|
+| **1** | **[TELOS](https://github.com/danielmiessler/Telos)** | Articulate your current state and your ideal state—who you are, what you value, and what you're actually trying to achieve. |
+| **2** | **[LifeOS](https://github.com/danielmiessler/LifeOS)** | Run the transition—the AI harness that captures what you ultimately want and conveys it to your AI on every task. *(Formerly PAI.)* |
+| **3** | **[Human 3.0](https://human3.ai)** | Arrive—the version of you defined by what you create and value instead of your job title, with AI handling the routine work so you can do the human work. |
 
 <br>
 
@@ -24,18 +28,17 @@
 
 ## What I'm Building
 
+<sub>The rest of the stack around that transition.</sub>
+
 </div>
 
 | Project | What It Does | |
 |---------|--------------|---|
-| **[LifeOS](https://github.com/danielmiessler/LifeOS)** | The AI harness that moves you from your current state to your ideal state—an intent engineering platform that captures what you ultimately want and conveys it to your AI on every task. *(Formerly PAI.)* | ![Stars](https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=★) |
 | **[Fabric](https://github.com/danielmiessler/fabric)** | An open-source framework for augmenting humans using AI—crowdsourced prompts to extract wisdom, analyze security, summarize content, and hundreds more. | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=★) |
-| **[TELOS](https://github.com/danielmiessler/Telos)** | Articulate who you are, what you value, and what you're trying to achieve—structured self-knowledge that AI can actually use to help you. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=★) |
 | **[Substrate](https://github.com/danielmiessler/Substrate)** | The deeper foundation—a framework for understanding what humans are, what we want, and what progress actually means. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=★) |
 | **[TheAlgorithm](https://github.com/danielmiessler/TheAlgorithm)** | A general problem-solving algorithm built on verifiable Ideal State Criteria. | ![Stars](https://img.shields.io/github/stars/danielmiessler/TheAlgorithm?style=flat-square&label=★) |
 | **[Daemon](https://github.com/danielmiessler/Daemon)** | An open-source personal API framework. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=★) |
 | **[SecLists](https://github.com/danielmiessler/SecLists)** | The security tester's companion—wordlists and payloads. | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=★) |
-| **[Human 3.0](https://human3.ai)** | The philosophy—a framework for human flourishing when AI handles the routine work. | |
 
 <details>
 <summary><strong>More projects</strong> (earlier and experimental work)</summary>
