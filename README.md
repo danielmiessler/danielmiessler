@@ -4,7 +4,7 @@
 
 <br>
 
-**[Building](#what-im-building) ・ [Idea Sites](#idea-sites) ・ [Writing](#writing) ・ [Videos](#latest-videos) ・ [Connect](#connect)**
+**[LifeOS](#lifeos) ・ [Stack](#the-rest-of-the-stack) ・ [Idea Sites](#idea-sites) ・ [Writing](#writing) ・ [Videos](#latest-videos) ・ [Connect](#connect)**
 
 </div>
 
@@ -14,30 +14,46 @@ Everything I make is part of one system, and the system has one purpose: **movin
 
 Most people's current state was assigned to them—a job title, a place in a hierarchy, an identity built on being useful to an organization. The deeper problem is that their ideal state was assigned too—or they were never even taught to ask what it was.
 
-That's the whole game, and it takes three steps:
+<br>
+
+<div align="center">
+
+## LifeOS
+
+<sub>The main thing I'm building.</sub>
+
+<br><br>
+
+<a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=for-the-badge&label=LifeOS%20★" alt="LifeOS stars" /></a>
+
+</div>
+
+<br>
+
+**[LifeOS](https://github.com/danielmiessler/LifeOS)** is the AI harness that runs that transition—an intent engineering platform that captures what you ultimately want and conveys it to your AI on every task. *(Formerly PAI.)*
+
+It sits in the middle of a three-step system:
 
 | | | |
 |---|---|---|
 | **1** | **[TELOS](https://github.com/danielmiessler/Telos)** | Articulate your current state and your ideal state—who you are, what you value, and what you're actually trying to achieve. |
-| **2** | **[LifeOS](https://github.com/danielmiessler/LifeOS)** | Run the transition—the AI harness that captures what you ultimately want and conveys it to your AI on every task. *(Formerly PAI.)* |
+| **2** | **[LifeOS](https://github.com/danielmiessler/LifeOS)** | Run the transition—capture your intent, convey it to your AI on every task, and verify the output against it. |
 | **3** | **[Human 3.0](https://human3.ai)** | Arrive—the version of you defined by what you create and value instead of your job title, with AI handling the routine work so you can do the human work. |
 
 <br>
 
 <div align="center">
 
-## What I'm Building
-
-<sub>The rest of the stack around that transition.</sub>
+## The Rest of the Stack
 
 </div>
 
 | Project | What It Does | |
 |---------|--------------|---|
 | **[Fabric](https://github.com/danielmiessler/fabric)** | An open-source framework for augmenting humans using AI—crowdsourced prompts to extract wisdom, analyze security, summarize content, and hundreds more. | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=★) |
+| **[Daemon](https://github.com/danielmiessler/Daemon)** | An open-source personal API framework, from the Universal Daemonization idea in my 2016 book: everything—including people—broadcasts an API that AI assistants can read and act on. Mine is live at [daemon.danielmiessler.com](https://daemon.danielmiessler.com). | ![Stars](https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=★) |
 | **[Substrate](https://github.com/danielmiessler/Substrate)** | The deeper foundation—a framework for understanding what humans are, what we want, and what progress actually means. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=★) |
 | **[TheAlgorithm](https://github.com/danielmiessler/TheAlgorithm)** | A general problem-solving algorithm built on verifiable Ideal State Criteria. | ![Stars](https://img.shields.io/github/stars/danielmiessler/TheAlgorithm?style=flat-square&label=★) |
-| **[Daemon](https://github.com/danielmiessler/Daemon)** | An open-source personal API framework. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=★) |
 | **[SecLists](https://github.com/danielmiessler/SecLists)** | The security tester's companion—wordlists and payloads. | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=★) |
 
 <details>
@@ -67,33 +83,49 @@ That's the whole game, and it takes three steps:
 
 </div>
 
-**Archives**
-
-| Site | What It Is |
-|------|-----------|
-| **[samsaid.ai](https://samsaid.ai)** | A neutral archive of what Sam Altman has said |
-| **[dariosaid.ai](https://dariosaid.ai)** | A neutral archive of what Dario Amodei has said |
-| **[danielsaid.ai](https://danielsaid.ai)** | My own positions, held to the same standard |
-| **[eternalquestions.ai](https://eternalquestions.ai)** | The semi-unsolvable questions humanity keeps asking |
-| **[therealinternetofthings.ai](https://therealinternetofthings.ai)** | My 2016 book on where IoT was actually headed |
-
-**Arguments**
-
-| Site | What It Is |
-|------|-----------|
-| **[shouldwecontrolopensource.ai](https://shouldwecontrolopensource.ai)** | A structured debate on controlling open-source AI |
-| **[aiunderstands.ai](https://aiunderstands.ai)** | 18 mysteries that test whether AI genuinely understands |
-| **[defineitintext.ai](https://defineitintext.ai)** | If you can define the work in text, AI can do it |
-| **[thevulnequation.ai](https://thevulnequation.ai)** | Interactive economics of vulnerability discovery |
-| **[highentropycontent.io](https://highentropycontent.io)** | Why high-entropy content wins |
-| **[oursafe.ai](https://oursafe.ai)** | Secure AI For Everyone—a practical AI-safety taxonomy |
-
-**Live Systems**
-
-| Site | What It Is |
-|------|-----------|
-| **[thesurface.ai](https://thesurface.ai)** | An AI-curated intelligence feed |
-| **[newarkcacrime.org](https://newarkcacrime.org)** | Civic crime intelligence for my hometown |
+<table>
+<tr>
+<th align="left">Archives</th>
+<th align="left">Arguments</th>
+<th align="left">Live Systems</th>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<strong><a href="https://samsaid.ai">samsaid.ai</a></strong><br>
+<sub>A neutral archive of what Sam Altman has said</sub><br><br>
+<strong><a href="https://dariosaid.ai">dariosaid.ai</a></strong><br>
+<sub>A neutral archive of what Dario Amodei has said</sub><br><br>
+<strong><a href="https://danielsaid.ai">danielsaid.ai</a></strong><br>
+<sub>My own positions, held to the same standard</sub><br><br>
+<strong><a href="https://eternalquestions.ai">eternalquestions.ai</a></strong><br>
+<sub>The semi-unsolvable questions humanity keeps asking</sub><br><br>
+<strong><a href="https://therealinternetofthings.ai">therealinternetofthings.ai</a></strong><br>
+<sub>My 2016 book on where IoT was actually headed</sub>
+</td>
+<td valign="top" width="33%">
+<strong><a href="https://shouldwecontrolopensource.ai">shouldwecontrolopensource.ai</a></strong><br>
+<sub>A structured debate on controlling open-source AI</sub><br><br>
+<strong><a href="https://aiunderstands.ai">aiunderstands.ai</a></strong><br>
+<sub>18 mysteries that test whether AI genuinely understands</sub><br><br>
+<strong><a href="https://defineitintext.ai">defineitintext.ai</a></strong><br>
+<sub>If you can define the work in text, AI can do it</sub><br><br>
+<strong><a href="https://thevulnequation.ai">thevulnequation.ai</a></strong><br>
+<sub>Interactive economics of vulnerability discovery</sub><br><br>
+<strong><a href="https://highentropycontent.io">highentropycontent.io</a></strong><br>
+<sub>Why high-entropy content wins</sub><br><br>
+<strong><a href="https://oursafe.ai">oursafe.ai</a></strong><br>
+<sub>Secure AI For Everyone—a practical AI-safety taxonomy</sub>
+</td>
+<td valign="top" width="33%">
+<strong><a href="https://daemon.danielmiessler.com">daemon.danielmiessler.com</a></strong><br>
+<sub>My live personal daemon—my current state and work as an API</sub><br><br>
+<strong><a href="https://thesurface.ai">thesurface.ai</a></strong><br>
+<sub>An AI-curated intelligence feed</sub><br><br>
+<strong><a href="https://newarkcacrime.org">newarkcacrime.org</a></strong><br>
+<sub>Civic crime intelligence for my hometown</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
