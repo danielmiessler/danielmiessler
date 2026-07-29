@@ -24,7 +24,7 @@ Most people's current state was assigned to them—a job title, a place in a hie
 
 <br><br>
 
-<a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=for-the-badge&label=LifeOS%20★" alt="LifeOS stars" /></a>
+<a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=for-the-badge&label=LifeOS%20%E2%98%85" alt="LifeOS stars" /></a>
 
 </div>
 
@@ -34,11 +34,23 @@ Most people's current state was assigned to them—a job title, a place in a hie
 
 It sits in the middle of a three-step system:
 
-| | | |
-|---|---|---|
-| **1** | **[TELOS](https://github.com/danielmiessler/Telos)** | Articulate your current state and your ideal state—who you are, what you value, and what you're actually trying to achieve. |
-| **2** | **[LifeOS](https://github.com/danielmiessler/LifeOS)** | Run the transition—capture your intent, convey it to your AI on every task, and verify the output against it. |
-| **3** | **[Human 3.0](https://human3.ai)** | Arrive—the version of you defined by what you create and value instead of your job title, with AI handling the routine work so you can do the human work. |
+<table>
+<tr>
+<td align="center"><strong>1</strong></td>
+<td><strong><a href="https://github.com/danielmiessler/Telos">TELOS</a></strong></td>
+<td>Articulate your current state and your ideal state—who you are, what you value, and what you're actually trying to achieve.</td>
+</tr>
+<tr>
+<td align="center"><strong>2</strong></td>
+<td><strong><a href="https://github.com/danielmiessler/LifeOS">LifeOS</a></strong></td>
+<td>Run the transition—capture your intent, convey it to your AI on every task, and verify the output against it.</td>
+</tr>
+<tr>
+<td align="center"><strong>3</strong></td>
+<td><strong><a href="https://human3.ai">Human&nbsp;3.0</a></strong></td>
+<td>Arrive—the version of you defined by what you create and value instead of your job title, with AI handling the routine work so you can do the human work.</td>
+</tr>
+</table>
 
 <br>
 
@@ -50,11 +62,11 @@ It sits in the middle of a three-step system:
 
 | Project | What It Does | |
 |---------|--------------|---|
-| **[Fabric](https://github.com/danielmiessler/fabric)** | An open-source framework for augmenting humans using AI—crowdsourced prompts to extract wisdom, analyze security, summarize content, and hundreds more. | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=★) |
-| **[Daemon](https://github.com/danielmiessler/Daemon)** | An open-source personal API framework, from the Universal Daemonization idea in my 2016 book: everything—including people—broadcasts an API that AI assistants can read and act on. Mine is live at [daemon.danielmiessler.com](https://daemon.danielmiessler.com). | ![Stars](https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=★) |
-| **[Substrate](https://github.com/danielmiessler/Substrate)** | The deeper foundation—a framework for understanding what humans are, what we want, and what progress actually means. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=★) |
-| **[TheAlgorithm](https://github.com/danielmiessler/TheAlgorithm)** | A general problem-solving algorithm built on verifiable Ideal State Criteria. | ![Stars](https://img.shields.io/github/stars/danielmiessler/TheAlgorithm?style=flat-square&label=★) |
-| **[SecLists](https://github.com/danielmiessler/SecLists)** | The security tester's companion—wordlists and payloads. | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=★) |
+| **[Fabric](https://github.com/danielmiessler/fabric)** | An open-source framework for augmenting humans using AI—crowdsourced prompts to extract wisdom, analyze security, summarize content, and hundreds more. | ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=%E2%98%85) |
+| **[Daemon](https://github.com/danielmiessler/Daemon)** | An open-source personal API framework, from the Universal Daemonization idea in my 2016 book: everything—including people—broadcasts an API that AI assistants can read and act on. Mine is live at [daemon.danielmiessler.com](https://daemon.danielmiessler.com). | ![Stars](https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=%E2%98%85) |
+| **[Substrate](https://github.com/danielmiessler/Substrate)** | The deeper foundation—a framework for understanding what humans are, what we want, and what progress actually means. | ![Stars](https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=%E2%98%85) |
+| **[TheAlgorithm](https://github.com/danielmiessler/TheAlgorithm)** | A general problem-solving algorithm built on verifiable Ideal State Criteria. | ![Stars](https://img.shields.io/github/stars/danielmiessler/TheAlgorithm?style=flat-square&label=%E2%98%85) |
+| **[SecLists](https://github.com/danielmiessler/SecLists)** | The security tester's companion—wordlists and payloads. | ![Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=%E2%98%85) |
 
 <details>
 <summary><strong>More projects</strong> (earlier and experimental work)</summary>
