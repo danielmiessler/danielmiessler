@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="56" viewBox="0 0 880 56">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0C0F17"/>
+      <stop offset="1" stop-color="#06080D"/>
+    </linearGradient>
+    <linearGradient id="barG" gradientUnits="userSpaceOnUse" x1="0" y1="54" x2="880" y2="54">
+      <stop offset="0" stop-color="#EA9F3D"/>
+      <stop offset="1" stop-color="#4597F7"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M 0 56 V 10 Q 0 0 10 0 H 870 Q 880 0 880 10 V 56 Z" fill="url(#ground)"/>
+  <path d="M 0.5 56 V 10 Q 0.5 0.5 10 0.5 H 870 Q 879.5 0.5 879.5 10 V 56" fill="none" stroke="#232B3A" stroke-width="1"/>
+
+  <g text-anchor="middle" font-family="Menlo, SF Mono, monospace" font-size="11" letter-spacing="1.98" fill="#C9CDD6">
+    <text x="146.7" y="32">ARCHIVES</text>
+    <text x="440" y="32">ARGUMENTS</text>
+    <text x="733.3" y="32">LIVE SYSTEMS</text>
+  </g>
+
+  <rect x="0" y="53" width="880" height="3" fill="url(#barG)"/>
+</svg>
