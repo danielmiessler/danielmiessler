@@ -118,13 +118,13 @@ Most people's current state was assigned to them—a job title, a place in a hie
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Aren’t Things Worse?](https://danielmiessler.com/blog/why-arent-things-worse?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The AI-Native Company](https://danielmiessler.com/blog/the-ai-native-company?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [AIL Badges](https://danielmiessler.com/blog/ail-badge-examples?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [What the Singularity Actually Means](https://danielmiessler.com/blog/what-the-singularity-actually-means?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Answer to the Harness Question](https://danielmiessler.com/blog/the-answer-to-the-harness-question?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Entire Game for AI Is Articulation of Ideal State](https://danielmiessler.com/blog/ai-ideal-state-articulation?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [The OpenAI Hack Was a Mini Paperclip Maximizer](https://danielmiessler.com/blog/openai-hack-paperclip-maximizer?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [AI Is Just Thinking and Doing](https://danielmiessler.com/blog/ai-is-thinking-and-doing?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [The OpenAI Hack Was a Mini Paperclip Maximizer](https://danielmiessler.com/blog/openai-hack-paperclip-maximizer?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
