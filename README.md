@@ -118,13 +118,13 @@ Most people's current state was assigned to them—a job title, a place in a hie
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [Creativity vs. Consumption](https://danielmiessler.com/blog/creativity-vs-consumption?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [Where an AI Watermark Can Hide in Plain Text](https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [&quot;Nobody Asked for A.I.&quot; Is a Stupid Argument](https://danielmiessler.com/blog/nobody-asked-for-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Why Aren’t Things Worse?](https://danielmiessler.com/blog/why-arent-things-worse?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The AI-Native Company](https://danielmiessler.com/blog/the-ai-native-company?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [AIL Badges](https://danielmiessler.com/blog/ail-badge-examples?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [What the Singularity Actually Means](https://danielmiessler.com/blog/what-the-singularity-actually-means?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [The Answer to the Harness Question](https://danielmiessler.com/blog/the-answer-to-the-harness-question?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [The Entire Game for AI Is Articulation of Ideal State](https://danielmiessler.com/blog/ai-ideal-state-articulation?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [AIL Badges](https://danielmiessler.com/blog/ail-badge-examples?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
