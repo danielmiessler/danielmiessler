@@ -47,7 +47,7 @@ Most people's current state was assigned to them—a job title, a place in a hie
 | Project | What It Does |
 |---------|--------------|
 | **[RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed)** | The most interesting robots.txt disallowed directories |
-| **[Ladder](https://github.com/danielmiessler/Ladder)** | A system for autonomous creation and optimization |
+| **[Ladder](https://github.com/danielmiessler/Ladder)** | A system for autonomous creation and optimization *(concept, not active)* |
 | **[Frames](https://github.com/danielmiessler/Frames)** | Positive and negative mental frames |
 | **[ExtractWisdom](https://github.com/danielmiessler/ExtractWisdom)** | The original extract-wisdom prompt project (now in Fabric) |
 | **[yt](https://github.com/danielmiessler/yt)** | Pull transcripts from YouTube |
