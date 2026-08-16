@@ -118,13 +118,13 @@ Most people's current state was assigned to them—a job title, a place in a hie
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [How Easy It Would Be to Hack You](https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [Another Crazy Experience with AI](https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [There Is Only One Technology](https://danielmiessler.com/blog/only-one-technology?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Different Games OpenAI and Anthropic Are Playing](https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Ilya Explains How LLMs Create a World Model](https://danielmiessler.com/blog/ilya-explains-how-llms-create-a-world-model?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Creativity vs. Consumption](https://danielmiessler.com/blog/creativity-vs-consumption?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Where an AI Watermark Can Hide in Plain Text](https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [&quot;Nobody Asked for A.I.&quot; Is a Stupid Argument](https://danielmiessler.com/blog/nobody-asked-for-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Why Aren’t Things Worse?](https://danielmiessler.com/blog/why-arent-things-worse?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [Where an AI Watermark Can Hide in Plain Text](https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
