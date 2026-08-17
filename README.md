@@ -118,13 +118,13 @@ Most people's current state was assigned to them—a job title, a place in a hie
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [Stolen Authority](https://danielmiessler.com/blog/stolen-authority?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [I Played ARC-AGI-3 With My Own Method](https://danielmiessler.com/blog/i-played-arc-agi-3?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [How Easy It Would Be to Hack You](https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Another Crazy Experience with AI](https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [There Is Only One Technology](https://danielmiessler.com/blog/only-one-technology?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Different Games OpenAI and Anthropic Are Playing](https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Ilya Explains How LLMs Create a World Model](https://danielmiessler.com/blog/ilya-explains-how-llms-create-a-world-model?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Creativity vs. Consumption](https://danielmiessler.com/blog/creativity-vs-consumption?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Where an AI Watermark Can Hide in Plain Text](https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [Ilya Explains How LLMs Create a World Model](https://danielmiessler.com/blog/ilya-explains-how-llms-create-a-world-model?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
