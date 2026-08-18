@@ -137,11 +137,11 @@ Most people's current state was assigned to them—a job title, a place in a hie
 ## Latest Videos
 
 <!-- YOUTUBE-LIST:START -->
+- [A Conversation With Matt Hartley](https://www.youtube.com/watch?v=DxguvrSQtpU)
 - [A Conversation with Liat Hayun](https://www.youtube.com/watch?v=CVuFGA-pbCY)
 - [A Conversation with Nico Waisman](https://www.youtube.com/watch?v=jRWBj2JKPYg)
 - [A Conversation With Jeremy Epling](https://www.youtube.com/watch?v=HfNPUkOI0hg)
-- [A Conversation with Dan DeCloss](https://www.youtube.com/watch?v=aMTi2U8NZyM)
-- [A Conversation With Sarit Tager](https://www.youtube.com/watch?v=5DSQxyjCm-g)<!-- YOUTUBE-LIST:END -->
+- [A Conversation with Dan DeCloss](https://www.youtube.com/watch?v=aMTi2U8NZyM)<!-- YOUTUBE-LIST:END -->
 
 <div align="center">
 
