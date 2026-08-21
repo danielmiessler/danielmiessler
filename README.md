@@ -118,13 +118,13 @@ Most people's current state was assigned to them—a job title, a place in a hie
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [I Only Do Anything Once](https://danielmiessler.com/blog/i-only-do-anything-once?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [I&#39;m Worried About a Prompt Injection Worm](https://danielmiessler.com/blog/prompt-injection-worm?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Unconventional Thought Is the Differentiator](https://danielmiessler.com/blog/unconventional-thought-differentiator?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [How to Get Started in Cybersecurity 2026](https://danielmiessler.com/blog/how-to-get-started-in-cybersecurity-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [How AI Builders Will Get Hacked](https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Fix Execution, Not the SOP](https://danielmiessler.com/blog/fix-execution-not-the-sop?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Stolen Authority](https://danielmiessler.com/blog/stolen-authority?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [I Played ARC-AGI-3 With My Own Method](https://danielmiessler.com/blog/i-played-arc-agi-3?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [Stolen Authority](https://danielmiessler.com/blog/stolen-authority?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
