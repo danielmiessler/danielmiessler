@@ -137,11 +137,11 @@ Most people's current state was assigned to them—a job title, a place in a hie
 ## Latest Videos
 
 <!-- YOUTUBE-LIST:START -->
+- [The Missing Piece Is Ideal State](https://www.youtube.com/watch?v=z6yBDU7HZA4)
 - [A Conversation With Harish Peri](https://www.youtube.com/watch?v=JylyWWPhgFY)
 - [Things Are About to Accelerate &lpar;Human 3.0 Preview&rpar;](https://www.youtube.com/watch?v=Uxm4fJxU_HI)
 - [A Conversation With Matt Hartley](https://www.youtube.com/watch?v=DxguvrSQtpU)
-- [A Conversation with Liat Hayun](https://www.youtube.com/watch?v=CVuFGA-pbCY)
-- [A Conversation with Nico Waisman](https://www.youtube.com/watch?v=jRWBj2JKPYg)<!-- YOUTUBE-LIST:END -->
+- [A Conversation with Liat Hayun](https://www.youtube.com/watch?v=CVuFGA-pbCY)<!-- YOUTUBE-LIST:END -->
 
 <div align="center">
 
