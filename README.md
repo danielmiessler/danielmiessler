@@ -1,58 +1,46 @@
-<img src="images/plate-banner.png" alt="Helping people and companies transition from Current State to Ideal State" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/loop-dark.png">
+  <img src="images/loop-light.png" width="830" alt="One loop: from current state to ideal state, with LifeOS running it. TELOS is what you want, written down. Human 3.0 is who you become.">
+</picture>
 
-<div align="center">
+<a href="https://github.com/danielmiessler?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/danielmiessler?affiliations=OWNER&style=flat-square&label=total%20stars&labelColor=24292f&color=E39A4E" alt="Total stars across my repos" height="22"></a>&nbsp;
+<a href="https://github.com/danielmiessler/SecLists"><img src="https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=SecLists&labelColor=24292f&color=57606a" alt="SecLists stars" height="22"></a>&nbsp;
+<a href="https://github.com/danielmiessler/fabric"><img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=Fabric&labelColor=24292f&color=57606a" alt="Fabric stars" height="22"></a>&nbsp;
+<a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=LifeOS&labelColor=24292f&color=57606a" alt="LifeOS stars" height="22"></a>&nbsp;
+<a href="https://github.com/danielmiessler/Telos"><img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=TELOS&labelColor=24292f&color=57606a" alt="TELOS stars" height="22"></a>
 
-**[Stack](#the-rest-of-the-stack)&nbsp;·&nbsp;[Idea Sites](#idea-sites)&nbsp;·&nbsp;[Writing](#writing)&nbsp;·&nbsp;[Videos](#latest-videos)&nbsp;·&nbsp;[Connect](#connect)**
+I'm Daniel Miessler. I came up through military intelligence and then spent about twenty-five years in security, and for the last few I've been building AI systems whose whole job is helping people become who they actually want to be. The idea underneath everything here is pretty simple, and it might be the most useful one I've had: **most of us were handed our current state, and we were handed our ideal state too.** Somebody gave you a job title and a place in a hierarchy, and nobody taught you to ask what you'd want instead. So what do you do about that? You write down where you are and where you're going, you use the best tools available to close the gap, and you check the work every single pass. That's the loop above. [LifeOS](https://github.com/danielmiessler/LifeOS) runs it for a person, and [Vector](https://ourvector.ai) runs it for a company. I'm honestly not sure yet how far this generalizes past people who already like to build things, but I'm super excited to find out.
 
-<br>
+## What I care about
 
-<a href="https://github.com/danielmiessler?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/danielmiessler?affiliations=OWNER&style=for-the-badge&label=Total%20GitHub%20Stars&labelColor=0D1117&color=4597F7" alt="Total GitHub stars across my repos" /></a>
+- Using AI to upgrade people, so everyone gets the starting conditions the lucky already have. That's the whole mission, really.
+- Security, which I did for a long time and still can't stop thinking about. Once you've watched enough systems fail, you build everything differently.
+- Publishing what I think as I think it: around 3,000 essays since 1999 and a weekly show. I think better out loud, and it's the best way I know to find the people who care about the same things.
 
-<a href="https://github.com/danielmiessler/SecLists"><img src="https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=SecLists&labelColor=0D1117&color=2A3140" alt="SecLists stars" /></a>&nbsp;
-<a href="https://github.com/danielmiessler/fabric"><img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=Fabric&labelColor=0D1117&color=2A3140" alt="Fabric stars" /></a>&nbsp;
-<a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=LifeOS&labelColor=0D1117&color=2A3140" alt="LifeOS stars" /></a>&nbsp;
-<a href="https://github.com/danielmiessler/Telos"><img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=TELOS&labelColor=0D1117&color=2A3140" alt="TELOS stars" /></a>&nbsp;
-<a href="https://github.com/danielmiessler/Substrate"><img src="https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=Substrate&labelColor=0D1117&color=2A3140" alt="Substrate stars" /></a>
+## What I've built
 
-</div>
+Everything below is that loop, run on something.
 
-<br>
+**[LifeOS](https://github.com/danielmiessler/LifeOS)** <img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>The AI harness that runs the loop: it captures what you ultimately want and carries that intent into every task, then checks the output against it. Formerly PAI.</sub>
 
-Everything I make is part of one system, and the system has one purpose: **moving people and companies from their current state to their ideal state.**
+**[TELOS](https://github.com/danielmiessler/Telos)** <img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>A framework for writing down deep context about what matters to you, so an AI can actually work toward it.</sub>
 
-Most people's current state was assigned to them—a job title, a place in a hierarchy, an identity built on being useful to an organization. The deeper problem is that their ideal state was assigned too—or they were never even taught to ask what it was.
+**[Fabric](https://github.com/danielmiessler/fabric)** <img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>An open-source framework for augmenting humans using AI, built on crowdsourced prompts for extracting wisdom, analyzing security, summarizing content, and hundreds more.</sub>
 
-<br>
+**[Daemon](https://github.com/danielmiessler/Daemon)** <img src="https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>A personal API framework from the Universal Daemonization idea in my 2016 book. Mine is live at [daemon.danielmiessler.com](https://daemon.danielmiessler.com).</sub>
 
-<a href="https://github.com/danielmiessler/LifeOS"><img src="images/plate-spine.png" alt="The three-step system: TELOS articulates your current and ideal state, LifeOS runs the transition, Human 3.0 is where you arrive" /></a>
+**[Substrate](https://github.com/danielmiessler/Substrate)** <img src="https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>A framework for understanding what humans are, what we want, and what progress actually means.</sub>
 
-**[TELOS](https://github.com/danielmiessler/Telos)**&nbsp;·&nbsp;**[LifeOS](https://github.com/danielmiessler/LifeOS)**&nbsp;·&nbsp;**[Human 3.0](https://human3.ai)**
+**[TheAlgorithm](https://github.com/danielmiessler/TheAlgorithm)** <img src="https://img.shields.io/github/stars/danielmiessler/TheAlgorithm?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>The general problem-solving loop itself, written down: verifiable Ideal State Criteria and the climb toward them.</sub>
 
-**[LifeOS](https://github.com/danielmiessler/LifeOS)** is the main thing I'm building: the AI harness that runs that transition—an intent engineering platform that captures what you ultimately want and conveys it to your AI on every task. *(Formerly PAI.)* <img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=LifeOS&labelColor=0D1117&color=4597F7" alt="LifeOS stars" />
-
-**[Vector](https://ourvector.ai)** is the same system for companies: a shared, governed record of where the company is and where it's going, so people and AI agents work from one picture.
-
-<br>
-
-## The Rest of the Stack
-
-**[Fabric](https://github.com/danielmiessler/fabric)** <img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
-<sub>An open-source framework for augmenting humans using AI—crowdsourced prompts to extract wisdom, analyze security, summarize content, and hundreds more.</sub>
-
-**[TELOS](https://github.com/danielmiessler/Telos)** <img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
-<sub>A framework for writing down deep context about what matters to you—problems, mission, goals, current state—so an AI can actually work toward it.</sub>
-
-**[Daemon](https://github.com/danielmiessler/Daemon)** <img src="https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
-<sub>An open-source personal API framework, from the Universal Daemonization idea in my 2016 book: everything—including people—broadcasts an API that AI assistants can read and act on. Mine is live at [daemon.danielmiessler.com](https://daemon.danielmiessler.com).</sub>
-
-**[Substrate](https://github.com/danielmiessler/Substrate)** <img src="https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
-<sub>The deeper foundation—a framework for understanding what humans are, what we want, and what progress actually means.</sub>
-
-**[TheAlgorithm](https://github.com/danielmiessler/TheAlgorithm)** <img src="https://img.shields.io/github/stars/danielmiessler/TheAlgorithm?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
-<sub>A general problem-solving algorithm built on verifiable Ideal State Criteria.</sub>
-
-**[SecLists](https://github.com/danielmiessler/SecLists)** <img src="https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
-<sub>The security tester's companion—wordlists and payloads.</sub>
+**[SecLists](https://github.com/danielmiessler/SecLists)** <img src="https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>The security tester's companion: wordlists and payloads.</sub>
 
 <details>
 <summary><strong>More projects</strong> (earlier and experimental work)</summary>
@@ -71,13 +59,9 @@ Most people's current state was assigned to them—a job title, a place in a hie
 
 </details>
 
-<br>
+## Idea sites
 
-## Idea Sites
-
-<sub>Standalone sites, each making one argument or holding one archive.</sub>
-
-<img src="images/plate-ideasites.png" alt="Archives, Arguments, Live Systems" />
+Each of these is the loop pointed at one question, and a few of them are live systems that keep running on their own.
 
 <table>
 <tr>
@@ -109,7 +93,7 @@ Most people's current state was assigned to them—a job title, a place in a hie
 <strong><a href="https://highentropycontent.io">highentropycontent.io</a></strong><br>
 <sub>Why high-entropy content wins</sub><br><br>
 <strong><a href="https://oursafe.ai">oursafe.ai</a></strong><br>
-<sub>Secure AI For Everyone—a practical AI-safety taxonomy</sub><br><br>
+<sub>Secure AI For Everyone, a practical AI-safety taxonomy</sub><br><br>
 <strong><a href="https://ispalantirtrustworthy.io">ispalantirtrustworthy.io</a></strong><br>
 <sub>An open inquiry into Palantir, with both steelman cases and every source public</sub><br><br>
 <strong><a href="https://permanentstandardtime.io">permanentstandardtime.io</a></strong><br>
@@ -117,7 +101,7 @@ Most people's current state was assigned to them—a job title, a place in a hie
 </td>
 <td valign="top" width="33%">
 <strong><a href="https://daemon.danielmiessler.com">daemon.danielmiessler.com</a></strong><br>
-<sub>My live personal daemon—my current state and work as an API</sub><br><br>
+<sub>My live personal daemon: my current state and work as an API</sub><br><br>
 <strong><a href="https://thesurface.ai">thesurface.ai</a></strong><br>
 <sub>An AI-curated intelligence feed</sub><br><br>
 <strong><a href="https://usdebt.io">usdebt.io</a></strong><br>
@@ -134,13 +118,11 @@ Most people's current state was assigned to them—a job title, a place in a hie
 </tr>
 </table>
 
-<br>
-
 ## Writing
 
-<sub>Start here—the pieces that carry the current thesis.</sub>
+The pieces that carry the current thesis:
 
-[From Prompt Engineering to Intent Engineering](https://danielmiessler.com/blog/intent-engineering)&nbsp;·&nbsp;[I Think AGI Just Happened](https://danielmiessler.com/blog/i-think-agi-just-happened)&nbsp;·&nbsp;[The Three Components of Becoming AI Antifragile](https://danielmiessler.com/blog/becoming-ai-antifragile)&nbsp;·&nbsp;[The Coming Divide: AI-Native or Left Behind](https://danielmiessler.com/blog/ai-native-divide)&nbsp;·&nbsp;[A Unified Theory For How AI Will Affect Jobs](https://danielmiessler.com/blog/unified-theory-ai-jobs)&nbsp;·&nbsp;[The Most Durable Human Value](https://danielmiessler.com/blog/the-most-durable-human-value)
+[From Prompt Engineering to Intent Engineering](https://danielmiessler.com/blog/intent-engineering), [I Think AGI Just Happened](https://danielmiessler.com/blog/i-think-agi-just-happened), [The Three Components of Becoming AI Antifragile](https://danielmiessler.com/blog/becoming-ai-antifragile), [The Coming Divide: AI-Native or Left Behind](https://danielmiessler.com/blog/ai-native-divide), [A Unified Theory For How AI Will Affect Jobs](https://danielmiessler.com/blog/unified-theory-ai-jobs), and [The Most Durable Human Value](https://danielmiessler.com/blog/the-most-durable-human-value).
 
 **Latest posts** (auto-updated daily):
 
@@ -153,15 +135,9 @@ Most people's current state was assigned to them—a job title, a place in a hie
 - [How AI Builders Will Get Hacked](https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Fix Execution, Not the SOP](https://danielmiessler.com/blog/fix-execution-not-the-sop?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
-<div align="center">
+All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
-**[→ All 3,000+ essays](https://danielmiessler.com/blog)**
-
-</div>
-
-<br>
-
-## Latest Videos
+## Latest videos
 
 <!-- YOUTUBE-LIST:START -->
 - [Should Open-Weight AI Be Regulated? A Conversation with Robert Graham](https://www.youtube.com/watch?v=x7qAPR9E37I)
@@ -170,24 +146,10 @@ Most people's current state was assigned to them—a job title, a place in a hie
 - [A Conversation With Harish Peri](https://www.youtube.com/watch?v=JylyWWPhgFY)
 - [Things Are About to Accelerate &lpar;Human 3.0 Preview&rpar;](https://www.youtube.com/watch?v=Uxm4fJxU_HI)<!-- YOUTUBE-LIST:END -->
 
-<div align="center">
-
-**[→ Unsupervised Learning on YouTube](https://youtube.com/@unsupervised-learning)**
-
-</div>
-
-<br>
+The show is [Unsupervised Learning on YouTube](https://youtube.com/@unsupervised-learning).
 
 ## Connect
 
-<div align="center">
+[Blog](https://danielmiessler.com), [Newsletter](https://danielmiessler.com/subscribe), [YouTube](https://youtube.com/@unsupervised-learning), [X](https://x.com/danielmiessler), [LinkedIn](https://linkedin.com/in/danielmiessler), [Books](https://unsupervised-learning.com/books), [All repos](https://github.com/danielmiessler?tab=repositories)
 
-[Blog](https://danielmiessler.com)&nbsp;·&nbsp;[Newsletter](https://danielmiessler.com/subscribe)&nbsp;·&nbsp;[YouTube](https://youtube.com/@unsupervised-learning)&nbsp;·&nbsp;[X](https://x.com/danielmiessler)&nbsp;·&nbsp;[LinkedIn](https://linkedin.com/in/danielmiessler)&nbsp;·&nbsp;[Books](https://unsupervised-learning.com/books)&nbsp;·&nbsp;[All Repos](https://github.com/danielmiessler?tab=repositories)
-
-<br>
-
-<a href="https://github.com/sponsors/danielmiessler">
-  <img src="https://img.shields.io/badge/Sponsor_this_work-%E2%9D%A4-EA9F3D?style=for-the-badge&labelColor=0D1117" alt="Sponsor" />
-</a>
-
-</div>
+<a href="https://github.com/sponsors/danielmiessler"><img src="https://img.shields.io/badge/sponsor%20this%20work-%E2%9D%A4-E39A4E?style=flat-square&labelColor=24292f" alt="Sponsor"></a>
