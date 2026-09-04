@@ -9,7 +9,17 @@
 <a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=LifeOS&labelColor=24292f&color=57606a" alt="LifeOS stars" height="22"></a>&nbsp;
 <a href="https://github.com/danielmiessler/Telos"><img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=TELOS&labelColor=24292f&color=57606a" alt="TELOS stars" height="22"></a>
 
-I'm Daniel Miessler. I came up through military intelligence and then spent about twenty-five years in security, and for the last few I've been building AI systems whose whole job is helping people become who they actually want to be. The idea underneath everything here is pretty simple, and it might be the most useful one I've had: **most of us were handed our current state, and we were handed our ideal state too.** Somebody gave you a job title and a place in a hierarchy, and nobody taught you to ask what you'd want instead. So what do you do about that? You write down where you are and where you're going, you use the best tools available to close the gap, and you check the work every single pass. That's the loop above. [LifeOS](https://github.com/danielmiessler/LifeOS) runs it for a person, and [Vector](https://ourvector.ai) runs it for a company. I'm honestly not sure yet how far this generalizes past people who already like to build things, but I'm super excited to find out.
+Hi. My name is Daniel Miessler and I'm an AI and cybersecurity researcher and founder in the San Francisco Bay Area. I've been building and writing online since 1999.
+
+Right now I'm excited, but also worried, about humanity's future.
+
+We've been trained for centuries to build our identities around work we don't really care about: our title, our place in a hierarchy, and our usefulness to someone else's company. And now AI is about to let most of those companies bring most knowledge work in-house.
+
+That will be extraordinarily disruptive, but it's also an opportunity, because being a corporate drone was never a peak human experience. So many of us spend our best hours, days, and years dreading Monday and sitting in pointless meetings. It's no way to live, and it never has been.
+
+I'm excited about AI's potential to give people a more meaningful alternative: one based on who they are and what they're trying to achieve.
+
+So that's what I do. I help people (and companies) articulate and pursue their **Ideal State**. That's the loop above. [LifeOS](https://github.com/danielmiessler/LifeOS) runs it for a person, and [Vector](https://ourvector.ai) runs it for a company.
 
 ## What I care about
 
