@@ -4,6 +4,16 @@
 
 **[Stack](#the-rest-of-the-stack)&nbsp;·&nbsp;[Idea Sites](#idea-sites)&nbsp;·&nbsp;[Writing](#writing)&nbsp;·&nbsp;[Videos](#latest-videos)&nbsp;·&nbsp;[Connect](#connect)**
 
+<br>
+
+<a href="https://github.com/danielmiessler?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/danielmiessler?affiliations=OWNER&style=for-the-badge&label=Total%20GitHub%20Stars&labelColor=0D1117&color=4597F7" alt="Total GitHub stars across my repos" /></a>
+
+<a href="https://github.com/danielmiessler/SecLists"><img src="https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=SecLists&labelColor=0D1117&color=2A3140" alt="SecLists stars" /></a>&nbsp;
+<a href="https://github.com/danielmiessler/fabric"><img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=Fabric&labelColor=0D1117&color=2A3140" alt="Fabric stars" /></a>&nbsp;
+<a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=LifeOS&labelColor=0D1117&color=2A3140" alt="LifeOS stars" /></a>&nbsp;
+<a href="https://github.com/danielmiessler/Telos"><img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=TELOS&labelColor=0D1117&color=2A3140" alt="TELOS stars" /></a>&nbsp;
+<a href="https://github.com/danielmiessler/Substrate"><img src="https://img.shields.io/github/stars/danielmiessler/Substrate?style=flat-square&label=Substrate&labelColor=0D1117&color=2A3140" alt="Substrate stars" /></a>
+
 </div>
 
 <br>
@@ -20,12 +30,17 @@ Most people's current state was assigned to them—a job title, a place in a hie
 
 **[LifeOS](https://github.com/danielmiessler/LifeOS)** is the main thing I'm building: the AI harness that runs that transition—an intent engineering platform that captures what you ultimately want and conveys it to your AI on every task. *(Formerly PAI.)* <img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=LifeOS&labelColor=0D1117&color=4597F7" alt="LifeOS stars" />
 
+**[Vector](https://ourvector.ai)** is the same system for companies: a shared, governed record of where the company is and where it's going, so people and AI agents work from one picture.
+
 <br>
 
 ## The Rest of the Stack
 
 **[Fabric](https://github.com/danielmiessler/fabric)** <img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
 <sub>An open-source framework for augmenting humans using AI—crowdsourced prompts to extract wisdom, analyze security, summarize content, and hundreds more.</sub>
+
+**[TELOS](https://github.com/danielmiessler/Telos)** <img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
+<sub>A framework for writing down deep context about what matters to you—problems, mission, goals, current state—so an AI can actually work toward it.</sub>
 
 **[Daemon](https://github.com/danielmiessler/Daemon)** <img src="https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=2A3140" alt="stars" />  
 <sub>An open-source personal API framework, from the Universal Daemonization idea in my 2016 book: everything—including people—broadcasts an API that AI assistants can read and act on. Mine is live at [daemon.danielmiessler.com](https://daemon.danielmiessler.com).</sub>
@@ -76,7 +91,11 @@ Most people's current state was assigned to them—a job title, a place in a hie
 <strong><a href="https://eternalquestions.ai">eternalquestions.ai</a></strong><br>
 <sub>The semi-unsolvable questions humanity keeps asking</sub><br><br>
 <strong><a href="https://therealinternetofthings.ai">therealinternetofthings.ai</a></strong><br>
-<sub>My 2016 book on where IoT was actually headed</sub>
+<sub>My 2016 book on where IoT was actually headed</sub><br><br>
+<strong><a href="https://experimentsinfiction.io">experimentsinfiction.io</a></strong><br>
+<sub>A public lab for AI-assisted fiction, with the human share of every story disclosed</sub><br><br>
+<strong><a href="https://aiharnesses.ai">aiharnesses.ai</a></strong><br>
+<sub>The AI coding harnesses compared: vendor claims and what people actually say</sub>
 </td>
 <td valign="top" width="33%">
 <strong><a href="https://shouldwecontrolopensource.ai">shouldwecontrolopensource.ai</a></strong><br>
@@ -90,7 +109,11 @@ Most people's current state was assigned to them—a job title, a place in a hie
 <strong><a href="https://highentropycontent.io">highentropycontent.io</a></strong><br>
 <sub>Why high-entropy content wins</sub><br><br>
 <strong><a href="https://oursafe.ai">oursafe.ai</a></strong><br>
-<sub>Secure AI For Everyone—a practical AI-safety taxonomy</sub>
+<sub>Secure AI For Everyone—a practical AI-safety taxonomy</sub><br><br>
+<strong><a href="https://ispalantirtrustworthy.io">ispalantirtrustworthy.io</a></strong><br>
+<sub>An open inquiry into Palantir, with both steelman cases and every source public</sub><br><br>
+<strong><a href="https://permanentstandardtime.io">permanentstandardtime.io</a></strong><br>
+<sub>The case for permanent Standard Time, with the counter-argument at full strength</sub>
 </td>
 <td valign="top" width="33%">
 <strong><a href="https://daemon.danielmiessler.com">daemon.danielmiessler.com</a></strong><br>
@@ -102,7 +125,11 @@ Most people's current state was assigned to them—a job title, a place in a hie
 <strong><a href="https://vulnerabilitydata.io">vulnerabilitydata.io</a></strong><br>
 <sub>CVE and patch data as a living dataset</sub><br><br>
 <strong><a href="https://newarkcacrime.org">newarkcacrime.org</a></strong><br>
-<sub>Civic crime intelligence for my hometown</sub>
+<sub>Civic crime intelligence for my hometown</sub><br><br>
+<strong><a href="https://usstats.io">usstats.io</a></strong><br>
+<sub>Over 100 US indicators back to the 1970s, straight from primary government data</sub><br><br>
+<strong><a href="https://bastionengine.io">bastionengine.io</a></strong><br>
+<sub>A deterministic battle-simulation engine with a playable game at <a href="https://bastionengine.io/legion">/legion</a></sub>
 </td>
 </tr>
 </table>
