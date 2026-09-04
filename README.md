@@ -5,7 +5,6 @@
 
 <a href="https://github.com/danielmiessler?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/danielmiessler?affiliations=OWNER&style=flat-square&label=total%20stars&labelColor=24292f&color=E39A4E" alt="Total stars across my repos" height="22"></a>&nbsp;
 <a href="https://github.com/danielmiessler/SecLists"><img src="https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=SecLists&labelColor=24292f&color=57606a" alt="SecLists stars" height="22"></a>&nbsp;
-<a href="https://github.com/danielmiessler/fabric"><img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=Fabric&labelColor=24292f&color=57606a" alt="Fabric stars" height="22"></a>&nbsp;
 <a href="https://github.com/danielmiessler/LifeOS"><img src="https://img.shields.io/github/stars/danielmiessler/LifeOS?style=flat-square&label=LifeOS&labelColor=24292f&color=57606a" alt="LifeOS stars" height="22"></a>&nbsp;
 <a href="https://github.com/danielmiessler/Telos"><img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=TELOS&labelColor=24292f&color=57606a" alt="TELOS stars" height="22"></a>
 
@@ -37,9 +36,6 @@ Everything below is that loop, run on something.
 **[TELOS](https://github.com/danielmiessler/Telos)** <img src="https://img.shields.io/github/stars/danielmiessler/Telos?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
 <sub>A framework for writing down deep context about what matters to you, so an AI can actually work toward it.</sub>
 
-**[Fabric](https://github.com/danielmiessler/fabric)** <img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
-<sub>An open-source framework for augmenting humans using AI, built on crowdsourced prompts for extracting wisdom, analyzing security, summarizing content, and hundreds more.</sub>
-
 **[Daemon](https://github.com/danielmiessler/Daemon)** <img src="https://img.shields.io/github/stars/danielmiessler/Daemon?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
 <sub>A personal API framework from the Universal Daemonization idea in my 2016 book. Mine is live at [daemon.danielmiessler.com](https://daemon.danielmiessler.com).</sub>
 
@@ -51,6 +47,9 @@ Everything below is that loop, run on something.
 
 **[SecLists](https://github.com/danielmiessler/SecLists)** <img src="https://img.shields.io/github/stars/danielmiessler/SecLists?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
 <sub>The security tester's companion: wordlists and payloads.</sub>
+
+**[Fabric](https://github.com/danielmiessler/fabric)** <img src="https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>An open-source framework for augmenting humans using AI, built on crowdsourced prompts for extracting wisdom, analyzing security, summarizing content, and hundreds more.</sub>
 
 <details>
 <summary><strong>More projects</strong> (earlier and experimental work)</summary>
