@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/loop-dark.png">
-  <img src="images/loop-light.png" width="830" alt="One loop: from current state to ideal state, with LifeOS running it. TELOS is what you want, written down. Human 3.0 is who you become.">
+  <img src="images/loop-light.png" width="830" alt="The Loop: from current state to ideal state, one verified pass at a time. LifeOS is the harness that runs the transition and verifies against the ideal. TELOS is the ideal state written down; Human 3.0 is what arriving looks like.">
 </picture>
 
 <a href="https://github.com/danielmiessler?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/danielmiessler?affiliations=OWNER&style=flat-square&label=total%20stars&labelColor=24292f&color=E39A4E" alt="Total stars across my repos" height="22"></a>&nbsp;
