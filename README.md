@@ -120,9 +120,7 @@ Each of these is the loop pointed at one question, and a few of them are live sy
 <strong><a href="https://newarkcacrime.org">newarkcacrime.org</a></strong><br>
 <sub>Civic crime intelligence for my hometown</sub><br><br>
 <strong><a href="https://usstats.io">usstats.io</a></strong><br>
-<sub>Over 100 US indicators back to the 1970s, straight from primary government data</sub><br><br>
-<strong><a href="https://bastionengine.io">bastionengine.io</a></strong><br>
-<sub>A deterministic battle-simulation engine with a playable game at <a href="https://bastionengine.io/legion">/legion</a></sub>
+<sub>Over 100 US indicators back to the 1970s, straight from primary government data</sub>
 </td>
 </tr>
 </table>
