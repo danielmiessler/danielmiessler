@@ -147,11 +147,11 @@ All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.c
 ## Latest videos
 
 <!-- YOUTUBE-LIST:START -->
+- [Matt Pocock Is Wrong About the Harness | An Experiment Made Entirely by My AI, Kai](https://www.youtube.com/watch?v=Q7dMK8vhvn0)
 - [Should Open-Weight AI Be Regulated? A Conversation with Robert Graham](https://www.youtube.com/watch?v=x7qAPR9E37I)
 - [A Conversation With Brandon Dixon](https://www.youtube.com/watch?v=_LByAOxlZi8)
 - [The Missing Piece Is Ideal State](https://www.youtube.com/watch?v=z6yBDU7HZA4)
-- [A Conversation With Harish Peri](https://www.youtube.com/watch?v=JylyWWPhgFY)
-- [Things Are About to Accelerate &lpar;Human 3.0 Preview&rpar;](https://www.youtube.com/watch?v=Uxm4fJxU_HI)<!-- YOUTUBE-LIST:END -->
+- [A Conversation With Harish Peri](https://www.youtube.com/watch?v=JylyWWPhgFY)<!-- YOUTUBE-LIST:END -->
 
 The show is [Unsupervised Learning on YouTube](https://youtube.com/@unsupervised-learning).
 
