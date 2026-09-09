@@ -134,13 +134,13 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [The Socrates Agent](https://danielmiessler.com/blog/the-socrates-agent?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Watch the Plot](https://danielmiessler.com/blog/watch-the-plot?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Good Person Bank](https://danielmiessler.com/blog/the-good-person-bank?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Humans Aren&#39;t Aligned Either](https://danielmiessler.com/blog/humans-arent-aligned-either?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Socratic AI](https://danielmiessler.com/blog/socratic-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Cliff&#39;s Notes for Everything](https://danielmiessler.com/blog/cliffs-notes-for-everything?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Peak Human Readership](https://danielmiessler.com/blog/peak-human-readership?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [The Link Between Your Workplace Situation and Your Mental Health](https://danielmiessler.com/blog/workplace-situation-mental-health?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [Peak Human Readership](https://danielmiessler.com/blog/peak-human-readership?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
