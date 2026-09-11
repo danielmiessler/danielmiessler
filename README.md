@@ -134,7 +134,7 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
-- [The Slow Path to AI Takeover](https://danielmiessler.com/blog/slow-path-to-ai-takeover?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [The Boring Way to Get to AI Taking Over Everything](https://danielmiessler.com/blog/slow-path-to-ai-takeover?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Socrates Agent](https://danielmiessler.com/blog/the-socrates-agent?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Watch the Plot](https://danielmiessler.com/blog/watch-the-plot?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Good Person Bank](https://danielmiessler.com/blog/the-good-person-bank?utm_source=rss&utm_medium=feed&utm_campaign=website)
