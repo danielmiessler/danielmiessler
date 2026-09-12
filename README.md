@@ -134,13 +134,13 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution, LitRPG, and AI Harnesses](https://danielmiessler.com/blog/evolution-ai-harnesses-litrpg?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Boring Way to Get to AI Taking Over Everything](https://danielmiessler.com/blog/slow-path-to-ai-takeover?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Socrates Agent](https://danielmiessler.com/blog/the-socrates-agent?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Watch the Plot](https://danielmiessler.com/blog/watch-the-plot?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Good Person Bank](https://danielmiessler.com/blog/the-good-person-bank?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Humans Aren&#39;t Aligned Either](https://danielmiessler.com/blog/humans-arent-aligned-either?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Socratic AI](https://danielmiessler.com/blog/socratic-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Cliff&#39;s Notes for Everything](https://danielmiessler.com/blog/cliffs-notes-for-everything?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [Socratic AI](https://danielmiessler.com/blog/socratic-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
