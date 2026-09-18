@@ -147,11 +147,11 @@ All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.c
 ## Latest videos
 
 <!-- YOUTUBE-LIST:START -->
+- [Evolution, Lit RPG and AI Harnesses](https://www.youtube.com/watch?v=whDVc1sPc4c)
 - [A Conversation with Abhishek](https://www.youtube.com/watch?v=xC_cuTSOy4s)
 - [My Whole AI Harness Exists to Solve One Problem](https://www.youtube.com/watch?v=8RWew9zqYnk)
 - [Where Do Big Ideas Live? The Authoritative Artifact](https://www.youtube.com/watch?v=YBaw0dzQkl0)
-- [A Harness Debate](https://www.youtube.com/watch?v=Q7dMK8vhvn0)
-- [Should Open-Weight AI Be Regulated? A Conversation with Robert Graham](https://www.youtube.com/watch?v=x7qAPR9E37I)<!-- YOUTUBE-LIST:END -->
+- [A Harness Debate](https://www.youtube.com/watch?v=Q7dMK8vhvn0)<!-- YOUTUBE-LIST:END -->
 
 The show is [Unsupervised Learning on YouTube](https://youtube.com/@unsupervised-learning).
 
