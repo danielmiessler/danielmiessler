@@ -134,13 +134,13 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [How Jev Picks the Model and Effort for Every Prompt](https://danielmiessler.com/blog/glance-routes-model-and-effort?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Two Upgrades to My AI Stack: Vigil and Idea-to-Video](https://danielmiessler.com/blog/vigil-and-idea-to-video?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Attacker vs. Defender AI Advantage](https://danielmiessler.com/blog/attacker-defender-ai-advantage?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [How to Think About the Difference Between Choice and Score in Jev](https://danielmiessler.com/blog/jev-choice-vs-score?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [I Think Our Main Agents Will Have Names](https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [My Early Thoughts on Jev](https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Anthropic&#39;s Misuse Report, Condensed to 117 Findings](https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Evolution, LitRPG, and AI Harnesses](https://danielmiessler.com/blog/evolution-ai-harnesses-litrpg?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [Anthropic&#39;s Misuse Report, Condensed to 117 Findings](https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
