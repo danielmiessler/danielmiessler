@@ -134,7 +134,7 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
-- [One Foot Pedal, Two Ways to Dictate](https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [Using a Foot Pedal to Do AI Dictation](https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [How Jev Picks the Model and Effort for Every Prompt](https://danielmiessler.com/blog/glance-routes-model-and-effort?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Two Upgrades to My AI Stack: Vigil and Idea-to-Video](https://danielmiessler.com/blog/vigil-and-idea-to-video?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Attacker vs. Defender AI Advantage](https://danielmiessler.com/blog/attacker-defender-ai-advantage?utm_source=rss&utm_medium=feed&utm_campaign=website)
