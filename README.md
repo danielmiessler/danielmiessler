@@ -134,13 +134,13 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom Content for Everyone](https://danielmiessler.com/blog/custom-content-for-everyone?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [AGI Prediction Update &lpar;2025-2028&rpar;](https://danielmiessler.com/blog/agi-prediction-update?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [Introducing UL Gauntlet, a Benchmark for How Well AI Explains](https://danielmiessler.com/blog/introducing-ul-gauntlet?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [I Write My Own Stage Directions Now](https://danielmiessler.com/blog/kai-fish-voice?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [My Thoughts on Renaming AI to Super Intelligence](https://danielmiessler.com/blog/renaming-ai-to-super-intelligence?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Harness Gardens](https://danielmiessler.com/blog/harness-gardens?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Our AI Agents Should Pay the People Who Help Them](https://danielmiessler.com/blog/agents-should-pay-creators?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [AI State of the Union &lpar;October 2026&rpar;](https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [College Is Not One Thing](https://danielmiessler.com/blog/college-is-not-one-thing?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Using a Foot Pedal to Do AI Dictation](https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [How Jev Picks the Model and Effort for Every Prompt](https://danielmiessler.com/blog/glance-routes-model-and-effort?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [Our AI Agents Should Pay the People Who Help Them](https://danielmiessler.com/blog/agents-should-pay-creators?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
