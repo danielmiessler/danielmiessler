@@ -147,11 +147,11 @@ All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.c
 ## Latest videos
 
 <!-- YOUTUBE-LIST:START -->
+- [Reverse Engineering with AI](https://www.youtube.com/watch?v=UbVYzvB4NFI)
 - [A Conversation With Snehal Antani](https://www.youtube.com/watch?v=TzWCfz1EB3A)
 - [A Conversation with Manoj](https://www.youtube.com/watch?v=A3gmOAN5_Vw)
 - [Evolution, Lit RPG and AI Harnesses](https://www.youtube.com/watch?v=whDVc1sPc4c)
-- [A Conversation with Abhishek](https://www.youtube.com/watch?v=xC_cuTSOy4s)
-- [My Whole AI Harness Exists to Solve One Problem](https://www.youtube.com/watch?v=8RWew9zqYnk)<!-- YOUTUBE-LIST:END -->
+- [A Conversation with Abhishek](https://www.youtube.com/watch?v=xC_cuTSOy4s)<!-- YOUTUBE-LIST:END -->
 
 The show is [Unsupervised Learning on YouTube](https://youtube.com/@unsupervised-learning).
 
