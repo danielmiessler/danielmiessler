@@ -134,7 +134,7 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s the Energy Changing the Frames](https://danielmiessler.com/blog/energy-changes-the-frames?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [Your Energy Changes How You See the World](https://danielmiessler.com/blog/your-energy-changes-how-you-see-the-world?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [General Hill-Climbing: The One Main Loop in AI](https://danielmiessler.com/blog/general-hill-climbing?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [I&#39;m on Team Explanation](https://danielmiessler.com/blog/team-explanation?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Models Are the How, Harnesses Are the What](https://danielmiessler.com/blog/models-how-harnesses-what?utm_source=rss&utm_medium=feed&utm_campaign=website)
