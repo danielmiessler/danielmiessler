@@ -134,13 +134,13 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bitter Lesson, Generalized](https://danielmiessler.com/blog/bitter-lesson-generalized?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [Vibe Coding Isn&#39;t Using AI to Make Things](https://danielmiessler.com/blog/vibe-coding-isnt-using-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Focus on Problems Instead of Companies](https://danielmiessler.com/blog/focus-on-problems-not-companies?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Hard Problem of Jealousy and the Easy Problem of Consciousness](https://danielmiessler.com/blog/hard-problem-of-jealousy?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Post-AI Security Floor](https://danielmiessler.com/blog/post-ai-security-floor?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Your Energy Level Changes How You See the World](https://danielmiessler.com/blog/your-energy-changes-how-you-see-the-world?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [General Hill-Climbing: The One Main Loop in AI](https://danielmiessler.com/blog/general-hill-climbing?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [I&#39;m on Team Explanation](https://danielmiessler.com/blog/team-explanation?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Models Are the How, Harnesses Are the What](https://danielmiessler.com/blog/models-how-harnesses-what?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [General Hill-Climbing: The One Main Loop in AI](https://danielmiessler.com/blog/general-hill-climbing?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
