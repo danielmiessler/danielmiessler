@@ -147,11 +147,11 @@ All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.c
 ## Latest videos
 
 <!-- YOUTUBE-LIST:START -->
+- [Introducing CORE](https://www.youtube.com/watch?v=2ES6SnfmrAA)
 - [A Conversation With Jonathan Kreiner](https://www.youtube.com/watch?v=rJ-RC1fPZs0)
 - [A Conversation With Prajakta Jagdale](https://www.youtube.com/watch?v=f8UVw9O8fd8)
 - [Reverse Engineering with AI](https://www.youtube.com/watch?v=UbVYzvB4NFI)
-- [A Conversation With Snehal Antani](https://www.youtube.com/watch?v=TzWCfz1EB3A)
-- [A Conversation with Manoj](https://www.youtube.com/watch?v=A3gmOAN5_Vw)<!-- YOUTUBE-LIST:END -->
+- [A Conversation With Snehal Antani](https://www.youtube.com/watch?v=TzWCfz1EB3A)<!-- YOUTUBE-LIST:END -->
 
 The show is [Unsupervised Learning on YouTube](https://youtube.com/@unsupervised-learning).
 
