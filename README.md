@@ -134,13 +134,13 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
+- [Every Site We Launched Since June](https://danielmiessler.com/blog/sites-we-launched-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Bitter Wall](https://danielmiessler.com/blog/bitter-wall?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Bitter Lesson, Generalized](https://danielmiessler.com/blog/bitter-lesson-generalized?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Vibe Coding Isn&#39;t Using AI to Make Things](https://danielmiessler.com/blog/vibe-coding-isnt-using-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Focus on Problems Instead of Companies](https://danielmiessler.com/blog/focus-on-problems-not-companies?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [The Hard Problem of Jealousy and the Easy Problem of Consciousness](https://danielmiessler.com/blog/hard-problem-of-jealousy?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [The Post-AI Security Floor](https://danielmiessler.com/blog/post-ai-security-floor?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [Your Energy Level Changes How You See the World](https://danielmiessler.com/blog/your-energy-changes-how-you-see-the-world?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [The Post-AI Security Floor](https://danielmiessler.com/blog/post-ai-security-floor?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
