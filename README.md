@@ -134,13 +134,13 @@ The pieces that carry the current thesis:
 **Latest posts** (auto-updated daily):
 
 <!-- BLOG-POST-LIST:START -->
-- [Books](https://danielmiessler.com/blog/reading?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Dario Is a Player, Not the Game](https://danielmiessler.com/blog/dario-player-not-the-game?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Humans Stepping Down as the Best in 2027](https://danielmiessler.com/blog/humans-stepping-down-2027?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Autonomous Media in 2027?](https://danielmiessler.com/blog/autonomous-media-2027?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Current Stack](https://danielmiessler.com/blog/current-stack?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - [Every Site We Launched in the Last 18 Months](https://danielmiessler.com/blog/sites-we-launched-2026?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- [The Bitter Wall](https://danielmiessler.com/blog/bitter-wall?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
+- [The Bitter Wall](https://danielmiessler.com/blog/bitter-wall?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- [The Bitter Lesson, Generalized](https://danielmiessler.com/blog/bitter-lesson-generalized?utm_source=rss&utm_medium=feed&utm_campaign=website)<!-- BLOG-POST-LIST:END -->
 
 All 3,000 or so essays are at [danielmiessler.com/blog](https://danielmiessler.com/blog).
 
